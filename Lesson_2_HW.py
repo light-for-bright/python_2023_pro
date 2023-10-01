@@ -1,5 +1,5 @@
 # 1 Вычисление площади круга:
-"""
+
 radius = 5
 
 def calculate_area():
