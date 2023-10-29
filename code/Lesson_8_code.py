@@ -1,3 +1,6 @@
+# https://get-color.ru - цвета
+# https://ofont.ru - шрифты
+
 import random
 
 import pygame
